@@ -10,7 +10,7 @@
 <br>
 
 - 🎓 Systems Analysis and Development Student 
-- 🚀 Learning Java, Python and SQL
+- 🚀 Learning Python and SQL
 - ☁️ AWS Cloud Practitioner Certified
   
 <br>
