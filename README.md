@@ -9,7 +9,8 @@
 </div>
 <br>
 
-- 🎓 Systems Analysis and Development Student 
+- 🎓 Systems Analysis and Development Student
+- 📊 Data Scientist Intern 
 - 🚀 Learning Python and SQL
 - ☁️ AWS Cloud Practitioner Certified
   
