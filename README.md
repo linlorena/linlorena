@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorena-lin/)](https://www.linkedin.com/in/lorena-lin/)
 [![Gmail Badge](https://img.shields.io/badge/-lorenalin99@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorenalin99@gmail.com)](mailto:lorenalin99@gmail.com)
 
-<!-- Descrição com ícones -->
 <p>Python | Oracle | Power BI | SQL | Postman | Supabase | Excel | Amazon Web Services | Git | Scrum | Jira | Power Automate 🚀</p>
 
 <ul>
